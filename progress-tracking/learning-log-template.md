@@ -1,5 +1,5 @@
 ### Daily Learning Log Template
-```markdown
+
 # Daily Learning Log - YYYY-MM-DD
 
 ## Focus Areas

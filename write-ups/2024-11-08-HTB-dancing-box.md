@@ -1,28 +1,44 @@
-HackTheBox Dancing Box
+# HackTheBox Dancing Box
 Starting Point
 2024-11-08
 
 ## Lab Setup
 
 Downloaded OpenVPN file
+
 Connected from Kali using command `openvpn /mnt/C/Users/Jonathan/Downloads/starting_point_jcaruso.ovpn`
+
 VPN is not running as daemon
+
 Opened second terminal and ran `kali`
+
 Pinged 10.129.67.144 to confirm connectivity
 
 `ping 10.129.67.144`
+
 PING 10.129.67.144 (10.129.67.144) 56(84) bytes of data.
+
 64 bytes from 10.129.67.144: icmp_seq=1 ttl=127 time=46.2 ms
+
 64 bytes from 10.129.67.144: icmp_seq=2 ttl=127 time=47.2 ms
+
 64 bytes from 10.129.67.144: icmp_seq=3 ttl=127 time=1371 ms
+
 64 bytes from 10.129.67.144: icmp_seq=4 ttl=127 time=316 ms
+
 64 bytes from 10.129.67.144: icmp_seq=5 ttl=127 time=49.8 ms
+
 64 bytes from 10.129.67.144: icmp_seq=6 ttl=127 time=45.9 ms
+
 64 bytes from 10.129.67.144: icmp_seq=7 ttl=127 time=52.2 ms
-^C
+
+
 --- 10.129.67.144 ping statistics ---
+
 7 packets transmitted, 7 received, 0% packet loss, time 6062ms
+
 rtt min/avg/max/mdev = 45.857/275.378/1370.873/456.647 ms, pipe 2
+
 
 SMB = Server Message Block
 Port 445 TCP

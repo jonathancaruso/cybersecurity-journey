@@ -1,0 +1,59 @@
+[ The CIA Triad - CompTIA Security+ SY0-701 - 1.2 ](https://www.youtube.com/watch?v=SBcDGb9l6yo)
+
+CIA Triad
+or AIC Triad
+
+Fundamentals of Security
+
+## Confidentiality
+
+- Prevent disclosure of information to unauthorized users or systems
+
+### Encryption
+
+- Encode messages so only certain people can read it
+
+### Access Controls
+
+- Selectively restrict access to a resource
+
+### Two-factor Authentication
+- Additional confirmation before info is disclosed
+
+## Integrity
+
+- Messages can't be modified without detection
+- Data is stored and transferred as intended
+
+### Hashing
+
+- Map data of an arbitrary length to data of a fixed length
+
+### Digital Signatures
+
+- Mathematical scheme to verify integrity of data
+
+### Certificates
+
+- Combine with a digital signature to verify an individual
+
+### Non-repudiation
+
+- Provides proof of integrity, can be asserted to be genuine
+
+## Availability
+
+- Systems and network must be online and available
+
+### Redundancy
+
+- Build services that will always be available
+
+### Fault Tolerance
+
+- Able to handle failures and keep running
+
+### Patching
+
+- Stability
+- Close security holes

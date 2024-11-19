@@ -1,0 +1,47 @@
+[ Non-repudiation - CompTIA Security+ SY0-701 - 1.2 ](https://www.youtube.com/watch?v=XxnCxPEllMg)
+
+# Non-repudiation
+
+- You can't deny what you've said
+- There's no taking it back
+
+- Sign a contract
+- Your signature adds "non-repudiation"
+- You really did sign the contract
+- Others can see your signature
+
+- Adds a different perspective for cryptography
+- Proof of integrity
+- Proof of origin, with high assurance of authenticity
+
+## Proof of integrity
+
+- Verify data does not change
+- Data is accurate and consistent
+- Nothing was changed
+
+### In cryptography, we use a hash
+
+- Represent data as a short string of text
+- A message digest, a fingerprint
+
+### If data changes, the hash changes
+
+- If the person changes, you get a different fingerprint
+
+### Does not necessarily associate data with an individual
+
+- Only tells you if the data has been changed
+
+### Hashing a file
+
+- Changing one character in a file changes the hash
+
+## Proof of Origin
+
+- Authentication
+- Make sure the signature isn't fake
+- Sign with a private key
+- Message doesn't need to be encrypted
+- No one else can sign it
+- Verify with the public key associated with the private key

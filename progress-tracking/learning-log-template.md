@@ -1,18 +1,16 @@
-### Daily Learning Log Template
+### Daily Learning Log 2024-XX-XX
 
-# Daily Learning Log - YYYY-MM-DD
+# Daily Learning Log - 2024-XX-XX
 
 ## Focus Areas
-- Main topics covered today
+- 
 
 ## Completed Tasks
-- [ ] Task 1
-- [x] Task 2
-- [x] Task 3
+- [x] 
+
 
 ## Resources Used
-- Links to courses/tutorials
-- Tools practiced
+- 
 
 ## Challenges Faced
 - Problems encountered

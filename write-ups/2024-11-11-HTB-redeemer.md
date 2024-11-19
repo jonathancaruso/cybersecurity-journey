@@ -61,6 +61,8 @@ Connected to redis database at new target IP:
 
 	┌──(lith㉿DESKTOP-921J5TE)-[~]
 	└─$ redis-cli -h 10.129.76.86
+	
+## Get redis database info	
 	10.129.76.86:6379> info
 	# Server
 	redis_version:5.0.7
@@ -203,14 +205,17 @@ Connected to redis database at new target IP:
 	db0:keys=4,expires=0,avg_ttl=0
 	(0.96s)
 
-10.129.76.86:6379> keys *
+4 keys found
+
+## Enumerating keys
+	10.129.76.86:6379> keys *
 	1) "flag"
 	2) "temp"
 	3) "numb"
 	4) "stor"
 
 # Flag Captured
-10.129.76.86:6379> get flag
-"03e1d2b376c37ab3f5319922053953eb"
+	10.129.76.86:6379> get flag
+	"03e1d2b376c37ab3f5319922053953eb"
 
 

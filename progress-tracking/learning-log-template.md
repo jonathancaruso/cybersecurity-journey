@@ -1,13 +1,12 @@
-### Daily Learning Log 2024-XX-XX
+### Daily Learning Log 2024-MM-DD
 
-# Daily Learning Log - 2024-XX-XX
+# Daily Learning Log - 2024-MM-DD
 
 ## Focus Areas
 - 
 
 ## Completed Tasks
 - [x] 
-
 
 ## Resources Used
 - 
